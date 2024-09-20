@@ -1,6 +1,6 @@
 # Movies(Flutter)
 
-Final Project course Dicoding Indonesia Learn to Create Flutter Apps for Beginners(Belajar Membuat Aplikasi Flutter untuk Pemula) 
+Final Project Movies course Dicoding Indonesia Learn to Create Flutter Apps for Beginners(Belajar Membuat Aplikasi Flutter untuk Pemula) 
 
 ## Features
 
@@ -10,8 +10,8 @@ Final Project course Dicoding Indonesia Learn to Create Flutter Apps for Beginne
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Movie Details](screenshots/details_screen.png)
+![Home Screen](assets/home_page.png)
+![Movie Details](assets/detail_page.png)
 
 ## Getting Started
 

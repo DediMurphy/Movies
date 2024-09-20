@@ -10,8 +10,12 @@ Final Project Movies course Dicoding Indonesia Learn to Create Flutter Apps for 
 
 ## Screenshots
 
-<img src="assets/home_page.png" alt="home screen" width="300"/>
-<img src="assets/detail_page.png" alt="home screen" width="300"/>
+<div align="center">
+   <p float="left">
+      <img src="assets/home_page.png" alt="home screen" sizes="300"/>
+      <img src="assets/detail_page.png" alt="home screen" sizes="300"/>
+   </p>
+</div>
 
 ## Getting Started
 
